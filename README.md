@@ -10,4 +10,5 @@ A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoade
 
 ## Usage
 Spawn out or unpack any node that has a Global tag that uses a string. You should then be able to type into it directly.
+
 ![738acc66b7](https://github.com/XDelta/ResoniteDirectEditGlobal/assets/7883807/d8a2f655-4a32-4dca-82c9-23d9310cabab)
