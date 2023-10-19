@@ -1,5 +1,6 @@
 # ResoniteDirectEditGlobal
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that allows global string tags to be edited directly by typing in the field.
+This implements the feature requested in https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/303
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
